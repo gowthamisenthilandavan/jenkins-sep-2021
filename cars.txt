@@ -1,2 +1,5 @@
 Maruti 800
-suv 800 
+suv 800
+thar
+xuv 700
+ 
